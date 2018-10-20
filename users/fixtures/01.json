@@ -1,0 +1,112 @@
+[
+{
+    "model": "users.user",
+    "pk": "29970d48-04de-4a0d-a038-5ce17fddfec0",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Daenerys.Targaryen",
+        "first_name": "Daenerys",
+        "last_name": "Targaryen",
+        "email": "Daenerys.Targaryen@got.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-10-20T11:40:10.525Z",
+        "created": "2018-10-20T11:40:10.526Z",
+        "modified": "2018-10-20T11:40:10.526Z",
+        "phone_number": "+911234567891",
+        "role": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": "31bbc34d-bb19-4c84-9d69-2a87eb011337",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "John.Snow",
+        "first_name": "John",
+        "last_name": "Snow",
+        "email": "John.Snow@got.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-10-20T11:37:23.544Z",
+        "created": "2018-10-20T11:37:23.545Z",
+        "modified": "2018-10-20T11:37:23.545Z",
+        "phone_number": "+919988776655",
+        "role": 1,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": "91ba05c9-fea9-48b1-8d31-4412b19f5d07",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Cersei.Lannister",
+        "first_name": "Cersei",
+        "last_name": "Lannister",
+        "email": "Cersei.Lannister@got.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-10-20T11:36:11.914Z",
+        "created": "2018-10-20T11:36:11.915Z",
+        "modified": "2018-10-20T11:36:11.915Z",
+        "phone_number": "+911122334455",
+        "role": 1,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": "e0f993a8-171b-4179-94ad-0064e171d3a1",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Tyrion.Lannister",
+        "first_name": "Tyrion",
+        "last_name": "Lannister",
+        "email": "Tyrion.Lannister@got.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-10-20T11:39:14.376Z",
+        "created": "2018-10-20T11:39:14.376Z",
+        "modified": "2018-10-20T11:39:14.376Z",
+        "phone_number": "+911122334455",
+        "role": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": "fbe46ef7-7841-4b2a-aabc-1e746e0fcabf",
+    "fields": {
+        "password": "",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Hodor",
+        "first_name": "Hodor",
+        "last_name": "Hodor",
+        "email": "Hodor@holdthedoor.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-10-20T11:38:03.894Z",
+        "created": "2018-10-20T11:38:03.895Z",
+        "modified": "2018-10-20T11:38:03.895Z",
+        "phone_number": "+911122334455",
+        "role": 2,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
