@@ -51,8 +51,11 @@ at terminal
 ```docker-compose exec web python manage.py test```
 
 
+open 
 
-Note: The application consists of two similar models, Members and Users. With the open endingness of requirements,
+`http://127.0.0.1:8000/api/users/
+`
 
 
+To run tests with curl, check out `test_with_curl.sh` while the containers are running
 
