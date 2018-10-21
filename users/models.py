@@ -13,7 +13,7 @@ class User(UUIDModel, AbstractUser):
         (STAFF, 'Staff')
     )
 
-    phone_number = PhoneNumberField(blank=True, null=True)
+    phone_number = models.CharField(max_length=128, blank=True, null=True)
     role = models.PositiveSmallIntegerField(choices=ROLES)
 
     @staticmethod
